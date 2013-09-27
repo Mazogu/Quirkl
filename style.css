@@ -1,0 +1,50 @@
+/* Styles go here */
+
+/**
+.logo{
+  transform:scaleX(.60);
+  transform:scaleY(.60);
+  height:60px;
+  width: 50px;
+}
+**/
+header{
+	background-color:yellow;
+}
+/**
+u.list-unstyled{
+	display: inline;
+}
+**/
+
+.ArtCtrl{
+	display: block;
+	overflow: auto;
+	height:30%;
+	position: static;
+}
+.GalleryCtrl{
+	display: block;
+	overflow: auto;
+	height:30%;
+}
+footer{
+	background-color: #222222;
+	color:blue;
+	text-decoration: underline;
+	position: relative;
+	display: block;
+	overflow: auto;
+}
+.span2{
+	display: inline-block;
+	float:left;
+	width:150px;
+	text-align: justify;
+	overflow: auto;
+}
+.heading{
+	font-size: 17px;
+	text-decoration: underline;
+	overflow: auto;
+}
